@@ -9,3 +9,22 @@ The project consists of three parts:
 1. A custom PCB design to electrically hook up the TM4C chip.
 2. Embedded unit tests that can be flashed into the chip that must demonstrate proper operation of various peripherals.
 3. A test script that flashes the chip and returns a collated set of test results.
+
+## TODO
+
+### Harness PCB
+
+- Add RGB status LED to PCB
+- Add ST7735 display
+- Add control switches
+- Add power components, relevant passives for lines
+- Add excel diagram for pinout and signal matching
+- Send to Burak for review
+
+### AnalysisChip
+
+- Determine unit test contents
+
+### TestChip
+
+- Determine self test contents, communication scheme with AnalysisChip
