@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TM4C123GH6PMI)(type Legacy)(uri ${KIPRJMOD}/Symbols/TM4C123GH6PMI.lib)(options "")(descr ""))
+  (lib (name TPD2E001)(type Legacy)(uri ${KIPRJMOD}/Symbols/TPD2E001.lib)(options "")(descr ""))
+)
